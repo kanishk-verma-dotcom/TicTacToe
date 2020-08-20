@@ -17,8 +17,8 @@ Details of this algorithm can be found at
 Motivation: https://www.youtube.com/watch?time_continue=69&v=trKjYdBASyQ&feature=emb_logo
 
 File Structure:
-main.py -> Main function
-screenFunctions.py -> Screen environment functions can be found here
-ticFunctions.py -> Minimax function and Best moves and check winner functions can be found here
+1. main.py -> Main function
+2. screenFunctions.py -> Screen environment functions can be found here
+3. ticFunctions.py -> Minimax function and Best moves and check winner functions can be found here
 
 
